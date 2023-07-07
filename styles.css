@@ -1,0 +1,11 @@
+ol{
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+body{
+    background-color: darkgrey;
+}  
